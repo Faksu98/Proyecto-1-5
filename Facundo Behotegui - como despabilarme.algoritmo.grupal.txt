@@ -1,0 +1,23 @@
+1- me despierto usando un despertador
+2- apagar el despertador
+3- me levanto de la cama
+4- preparar termotanque o calefon
+(desde aca esta bien)
+5- voy al baño
+6- me desvisto
+7- abro la ducha
+8- compruebo que la temperatura sea la indicada a su gusto
+9- me meto debajo de la ducha
+10- me mojo el cuerpo entero
+11- tomo el shampoo
+12- lo abro y me aplico shampoo en la cabeza
+13- me lavo la cabeza 30 seg
+14- me enjuago la cabeza hasta que no quede mas shampoo 
+15- agarro el jabon
+16- me enjabono por todo el cuerpo
+17- me enjuago hasta que no quede jabon
+18- cierro las canillas
+19- salgo de la ducho
+20- agarro la toalla
+21- me seco
+22- me pongo la ropa interior
